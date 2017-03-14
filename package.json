@@ -1,0 +1,18 @@
+{
+  "name": "httprequest",
+  "version": "1.0.0",
+  "description": "it's probably gonna rock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pie",
+    "coffee"
+  ],
+  "author": "wiley",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
